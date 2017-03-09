@@ -4,4 +4,6 @@ $(document).ready(function() {
   $('.addBlocks').append('<div class="blocks" id="blue"></div>');
   $('.addBlocks').append('<div class="blocks" id="green"></div>');
 
+  $('.button').onClick(function() {}
+    //when click button, add block of respective color. count
 });
