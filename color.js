@@ -35,8 +35,6 @@ $(document).ready(function() {
     $('.GreenCount').text("Green Count: " + countG);
   });
 
-
-
 });
 
 //hard mode need block to dissappear when clicked on an counter to reflect that change
